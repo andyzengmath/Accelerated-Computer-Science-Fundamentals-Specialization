@@ -8,4 +8,4 @@ class Cube {
 
     private:
         double length_;
-}
+};
